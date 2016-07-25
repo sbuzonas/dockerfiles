@@ -1,0 +1,6 @@
+#+TITLE:   README for Dockerfiles repo
+#+AUTHOR:  Steve Buzonas
+#+EMAIL:   steve@fancyguy.com
+#+STARTUP: content indent
+
+This is a repo containing Dockerfiles for my public images.
